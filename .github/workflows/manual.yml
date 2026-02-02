@@ -16,3 +16,4 @@ jobs:
           profile_id: 1106
           browser: chrome
           headless: false
+          environment: production
